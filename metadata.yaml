@@ -1,10 +1,16 @@
 _repo: Ein-Geschlecht_47189
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47189-h/images/cover.jpg
 creator:
   author:
     agent_name: Unruh, Fritz von
     gutenberg_agent_id: '44182'
     url: http://www.gutenberg.org/2009/agents/44182
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47189#Ein-Geschlecht
 gutenberg_issued: '2014-10-24'
 gutenberg_type: Text
 identifiers:
